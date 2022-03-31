@@ -1,7 +1,7 @@
 # Listen & Read News API ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
 This is a News listening API project that aims to help the user easy access, sort and read news information gotten from the News Website of times of india . 
-The program automaticly finds the top latest news around the globe and reads the headlines to you 
+The program automatically finds the top latest news around the globe and reads the headlines to you 
 and extract the link to that article so that the user can click on view article to read the articles in detail or you can just listen to the voice for some news update.
 
 ### Module used
